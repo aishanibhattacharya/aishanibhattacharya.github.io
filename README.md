@@ -1,6 +1,6 @@
 # GRAPHIC DESIGNING
 ## DIGITAL ART
-### Aishani Arpita Bhattacharya
+### By Aishani Bhattacharya
 
 ![images (2)](https://user-images.githubusercontent.com/130936142/232345166-dc7286fb-0ba7-4aa2-9ead-2a1789142fcd.jpg)
 ![images (3)](https://user-images.githubusercontent.com/130936142/232345169-b68fbd11-9469-423b-882c-63708b18dc1f.jpg)
