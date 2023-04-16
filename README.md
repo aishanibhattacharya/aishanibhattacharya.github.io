@@ -1,8 +1,8 @@
-# GRAPHIC DESIGNING
+# GRAPHIC DESIGN
 ## DIGITAL ART
+![Screenshot_20230416-111031__01](https://user-images.githubusercontent.com/130936142/232345640-2d5ceb3d-fd9f-430e-ae7f-1a26ca333c6c.jpg)
+
 ### By Aishani Bhattacharya
-$ jekyll new --skip-bundle .
-# Creates a Jekyll site in the current directory
 
 ![images (2)](https://user-images.githubusercontent.com/130936142/232345166-dc7286fb-0ba7-4aa2-9ead-2a1789142fcd.jpg)
 ![images (3)](https://user-images.githubusercontent.com/130936142/232345169-b68fbd11-9469-423b-882c-63708b18dc1f.jpg)
